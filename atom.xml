@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://bh2usn.xyz</id>
-    <title>Gridea</title>
-    <updated>2020-05-20T12:51:37.097Z</updated>
+    <title>BH2USN</title>
+    <updated>2020-05-20T13:23:32.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://bh2usn.xyz"/>
     <link rel="self" href="http://bh2usn.xyz/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>CQCQCQ This is BH2USN</subtitle>
     <logo>http://bh2usn.xyz/images/avatar.png</logo>
     <icon>http://bh2usn.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, BH2USN</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://bh2usn.xyz/post/hello-gridea/</id>
